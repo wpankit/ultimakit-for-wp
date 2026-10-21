@@ -16,7 +16,7 @@ UltimaKit is free and GPL-licensed. Since version 3.0.0 there is no Pro version:
 
 - **WordPress.org:** [wordpress.org/plugins/ultimakit-for-wp](https://wordpress.org/plugins/ultimakit-for-wp/)
 - **Support forum:** [wordpress.org/support/plugin/ultimakit-for-wp](https://wordpress.org/support/plugin/ultimakit-for-wp/)
-- **Made by:** [WPAnkit](https://wpankit.com/)
+- **Made by:** [ApplyFilters](https://applyfilters.com/), a brand of WPAnkit Labs LLP
 
 ## What's inside
 
@@ -113,4 +113,4 @@ Please don't open a public issue. Report it privately, as described in [SECURITY
 
 ## License
 
-[GPL-2.0-or-later](LICENSE). Made by [WPAnkit](https://wpankit.com/).
+[GPL-2.0-or-later](LICENSE). Made by [ApplyFilters](https://applyfilters.com/), a brand of WPAnkit Labs LLP.

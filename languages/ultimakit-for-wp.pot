@@ -1,4 +1,4 @@
-# Copyright (C) 2026 WPAnkit
+# Copyright (C) 2026 ApplyFilters
 # This file is distributed under the GPL-2.0+.
 msgid ""
 msgstr ""
@@ -27,11 +27,11 @@ msgid "<strong>UltimaKit:</strong> The only admin, speed, and security toolkit y
 msgstr ""
 
 #. Author of the plugin
-msgid "WPAnkit"
+msgid "ApplyFilters"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://wpankit.com/"
+msgid "https://applyfilters.com/"
 msgstr ""
 
 #: admin/class-wp-ultimakit-admin.php:174

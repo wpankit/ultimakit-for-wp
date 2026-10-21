@@ -1,5 +1,5 @@
 === UltimaKit – Admin Enhancements, Security, Optimization & Site Tweaks ===
-Contributors: ankitmaru, siapanchal
+Contributors: applyfilters, ankitmaru, siapanchal
 Tags: admin, enhancements, optimization, security, tweaks
 Requires at least: 5.6
 Tested up to: 7.1

@@ -16,8 +16,8 @@
  * Plugin URI:        https://wordpress.org/plugins/ultimakit-for-wp/
  * Description:       <strong>UltimaKit:</strong> The only admin, speed, and security toolkit you need. Reduce your plugin count and make your site faster, today.
  * Version:           3.0.0
- * Author:            WPAnkit
- * Author URI:        https://wpankit.com/
+ * Author:            ApplyFilters
+ * Author URI:        https://applyfilters.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       ultimakit-for-wp
